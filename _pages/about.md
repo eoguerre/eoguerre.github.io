@@ -11,4 +11,4 @@ I am a Professor of Economics at the School of Economics and Finance, Queen Mary
 
 I am an associate editor for Econometric Theory and the Journal of Econometrics.
 
-Find my CV here: [CV](../assets/CV202401_EG.pdf).
+[CV](../assets/CV202401_EG.pdf).
