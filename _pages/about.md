@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of Economics at the School of Economics and Finance, Queen Mary University of London. My interests are in theoretical and applied econometrics. My research has been published in various journals, including the Annals of Statistics, Econometrica, and the Review of Economic Studies.
+I am a Professor of Economics at the School of Economics and Finance, Queen Mary University of London. My interests are in theoretical and applied econometrics. My research has been published in various journals, including the Annals of Statistics, Econometrica, Probability Theory and Related Fields, and the Review of Economic Studies.
 
 I am an associate editor for Econometric Theory and the Journal of Econometrics.
 
