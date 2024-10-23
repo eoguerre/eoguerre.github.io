@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of Economics at the [School of Economics and Finance, Queen Mary University of London](https://www.qmul.ac.uk/sef/staff/emmanuelguerre.html). My research interests are in theoretical and applied econometrics. 
+I am a Professor of Economics at the [School of Economics and Finance, Queen Mary University of London](https://www.qmul.ac.uk/sef/). My research interests are in theoretical and applied econometrics. 
 
 I am an associate editor for Econometric Theory and the Journal of Econometrics.
