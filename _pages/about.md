@@ -9,7 +9,7 @@ redirect_from:
 
 I am Professor at the School of Economics and Finance, Queen Mary University of London. My interests are in theoretical and applied econometrics. My research has been published in various journals, including the Annals of Statistics, Econometrica, Probability Theory and Related Fields, and the Review of Economic Studies.
 
-I will be one of a recipient of the Journal of Econometrics Zellner award (best theory paper in 2022-23) for ["Quantile regression methods for first-price auctions"](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001524) coauthored with [Nathalie Gimenes](https://sites.google.com/view/nathaliegimenes).
+My paper ["Quantile regression methods for first-price auctions"](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001524) coauthored with [Nathalie Gimenes](https://sites.google.com/view/nathaliegimenes) has received the Journal of Econometrics Zellner award (best theory paper in 2022-23)
 
 I am an associate editor for Econometric Theory and the Journal of Econometrics.
 
