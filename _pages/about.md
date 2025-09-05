@@ -13,4 +13,4 @@ My paper ["Quantile regression methods for first-price auctions"](https://www.sc
 
 I am an associate editor for Econometric Theory and the Journal of Econometrics.
 
-[CV](../assets/CV202401_EG.pdf).
+[CV](../assets/CV202509_EG.pdf).
