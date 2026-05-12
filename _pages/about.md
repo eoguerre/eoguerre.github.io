@@ -12,4 +12,4 @@ I am Professor at the School of Economics and Finance, Queen Mary University of 
 
 I am an associate editor for the Journal of Econometrics.
 
-[CV](../assets/CV202603_EG.pdf).
+[CV](../assets/CV202605_EG.pdf).
