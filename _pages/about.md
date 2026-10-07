@@ -12,4 +12,6 @@ I am Professor at the School of Economics and Finance, Queen Mary University of 
 
 I am an associate editor for the Journal of Econometrics.
 
-[CV](../assets/CV202606_EG.pdf).
+[CV](../assets/CV202606_EG.pdf)
+
+Last arXiv submission: [``Aggregating many estimators using estimated weights'']([)](https://arxiv.org/abs/2609.19415) with [Yuting Wang](https://sites.google.com/view/yuting-wang/home)
